@@ -1,0 +1,52 @@
+.turismo-body{
+  background-image: url(../img/barco.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.logo{
+  margin-left: 1%;
+}
+.espacio{
+  min-height: 150px;
+}
+.slogan{
+  color: white;
+  vertical-align: bottom !important;
+  font-size: 1em;
+  margin-bottom: 0px;
+}
+.navegacion{
+  margin-top: 5%;
+}
+.social{
+  width: 100%;
+}
+.foto{
+  width:100% !important;
+  height: 100%;
+  margin-top: 2px;
+}
+.img-central{
+  width: 100%;
+  height: 100% !important;
+}
+.cont-central{
+  height: 100%;
+}
+.articulo{
+  background-color: inherit;
+  color: white;
+}
+.foto-articulo{
+  height: 100%;
+}
+.comentario{
+  color: white;
+}
+.autor{
+  color:white;
+  background-color: inherit;
+}
+.botones{
+  margin-top: 5px;
+}

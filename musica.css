@@ -1,0 +1,57 @@
+.music-body{
+  background-color: black;
+}
+.encabezado{
+  min-height: 100px;
+  background-color: #66ffcc;
+}
+.logo-img{
+  width: 80%;
+  border: 2px solid black;
+}
+.redes-sociales{
+  height: 50px;
+  margin-top:15%;
+}
+.navegacion{
+  background-color: #cccccc;
+  text-align: justify;
+  min-height: 50px;
+  margin: 0px;
+  padding-left: 0px;
+}
+.boton{
+  color: white;
+  background-color: #00ccff;
+  border: 2px solid #cccccc;
+  font-size: 30px;
+  border-radius: 3px;
+}
+.foto{
+  max-width: 100%;
+}
+.contenido{
+  color:white;
+}
+.titulo{
+  color: #990099;
+}
+.img-opinion{
+  max-width:10%;
+  max-height: 10px;
+}
+.articulo{
+  margin-top: 30px;
+}
+.buscador{
+    margin-top: 30px;
+
+
+}
+.lista{
+  border: 1px solid white;
+  height: 30px;
+  background-color: #cccccc;
+  border-radius: 3px;
+  color:black;
+}

@@ -1,0 +1,15 @@
+.cocina-body{
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navega{
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+.favoritos{
+  margin-top: 20px;
+}
+.comida{
+  width: 100%;
+}
